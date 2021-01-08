@@ -4,3 +4,7 @@ The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" a
 
 **The algorithm is not intended to be a cryptographically secure hash function; it was designed to protect against accidental errors, not malicious attacks.**
 Most credit cards and many government identification numbers use the algorithm as a simple method of distinguishing valid numbers from mistyped or otherwise incorrect numbers.
+
+### Disclaimer:
+**All the scripts and instructions in this repository are for educational and informational purposes only.
+I do not promote, encourage, support or excite any illegal activity with the code, data and/or instructions provided in the repository.**
