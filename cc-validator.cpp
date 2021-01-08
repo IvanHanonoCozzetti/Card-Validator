@@ -2,6 +2,7 @@
 #include <string>
 //#include <cstdio>
 
+// Luhn Algorithm
 bool checkLuhn(const std::string& cardNo) {
 
     int nDigits = cardNo.length();
@@ -21,6 +22,7 @@ bool checkLuhn(const std::string& cardNo) {
     return (nSum % 10 == 0);
 }
 
+// User Input and Validation
 int main() {
     
     std::cout << "Please enter the card number:" << std::endl;
