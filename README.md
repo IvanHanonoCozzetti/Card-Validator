@@ -7,4 +7,4 @@ Most credit cards and many government identification numbers use the algorithm a
 
 ### Disclaimer:
 **All the scripts and instructions in this repository are for educational and informational purposes only.
-I do not promote, encourage, support or excite any illegal activity with the code, data and/or instructions provided in the repository.**
+I do not promote, encourage, support or excite any illegal activity with the code, data and/or instructions provided on this repository.**
